@@ -238,3 +238,6 @@ This repository serves as the official landing page for Sejda PDF Desktop. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sejda PDF Desktop today!**
+
+---
+**Last updated:** 2026-09-09 14:24:28 UTC
