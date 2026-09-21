@@ -240,4 +240,4 @@ This repository serves as the official landing page for Sejda PDF Desktop. The s
 **Get the most recent version of Sejda PDF Desktop today!**
 
 ---
-**Last updated:** 2026-09-21 05:58:49 UTC
+**Last updated:** 2026-09-21 12:36:42 UTC
